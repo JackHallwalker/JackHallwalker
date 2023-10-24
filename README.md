@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <title>GitHub Bio</title>
-</head>
 <body>
     <h3>Hey there, I'm Chathusara Ravisanka 👋</h3>
     <p>🚀 Backend Software Engineer | C# Enthusiast | Computer Science Grad</p>
